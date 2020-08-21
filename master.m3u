@@ -1,5 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",TV-ONE
-http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=vcdnjt.useetv.com
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/rO_j8DlIy_NaUlsTb28CFFsnxZs=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-189b68.jpg" group-title="",SCTV
-https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1229572268_b894100_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",INDOSIAR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",RCTI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",GTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",MNCTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",INEWS-TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",KOMPASTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",METROTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",RTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",NETTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",TRANSTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",TRANS7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",CNN INDONESIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",CNBC INDONESIA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",TVRI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",TVRI JATENG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",TVRI JOGJA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",CNN INDONESIA
