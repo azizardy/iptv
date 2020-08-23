@@ -2,14 +2,15 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",TV-ONE
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/rO_j8DlIy_NaUlsTb28CFFsnxZs=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-189b68.jpg" group-title="",SCTV
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",INDOSIAR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",RCTI
+https://etslive-2-vidio-com.akamaized.net/exp=1598190427~acl=/vp9/204_stream.mpd!/vp9/204/*~hmac=fbcaa2417e58028677c246de8f81b7247dc2002b7a25c9a6491276870c1a3eed/vp9/204_stream.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RLURePvhUSQXb4nRDEcUn_qUSCU=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-24caa0.jpg" group-title="",INDOSIAR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ofmrQJGysiFnaxIdhDXhsbQyeGg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-e4a143.jpg" group-title="",RCTI
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",GTV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",MNCTV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",INEWS-TV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",KOMPASTV
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",METROTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NqS-4bcUqpwKXDO2vGyV9M35qEU=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-362808.jpg" group-title="",METROTV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",RTV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",NETTV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",TRANSTV
