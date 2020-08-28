@@ -1,0 +1,16 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\whatsapp]
+@="URL:whatsapp"
+"URL Protocol"=""
+
+[HKEY_CLASSES_ROOT\whatsapp\DefaultIcon]
+@="\"whatsapp.exe,1\""
+
+[HKEY_CLASSES_ROOT\whatsapp\shell]
+
+[HKEY_CLASSES_ROOT\whatsapp\shell\open]
+
+[HKEY_CLASSES_ROOT\whatsapp\shell\open\command]
+@="\"C:\\Users\\Ruangguru\\AppData\\Local\\WhatsApp\\WhatsApp.exe\" \"%1\""
+
